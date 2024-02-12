@@ -1,1 +1,0 @@
-# This is the starting of the journey of my  C program
